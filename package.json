@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-sql-operations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure SQL Database RESTful API manages databases via CRUD operations.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-sql-operations",
